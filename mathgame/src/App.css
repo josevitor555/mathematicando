@@ -1,0 +1,22 @@
+/* * {
+  margin: 0;
+} */
+
+::-webkit-scrollbar {
+  width: 0;
+}
+
+/* Fonts */
+@font-face {
+  font-family: "Nunito";
+  src: url("./fonts/Nunito/Nunito-Italic-VariableFont_wght.ttf") format("truetype");
+  src: url("./fonts/Nunito//Nunito-VariableFont_wght.ttf") format("truetype");
+}
+
+button {
+  box-shadow: 0px 6px 0px #1d1d1d;
+}
+
+body {
+  font-family: "Nunito";
+}
